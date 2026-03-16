@@ -1,5 +1,5 @@
 def greet():
-    print('namaste')
+    print('hello from main')
 
 def farewell():
-    print('dhanyawad')
+    print('goodbye from main')
